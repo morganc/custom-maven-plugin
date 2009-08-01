@@ -29,4 +29,20 @@
       <version>2.0</version>
     </dependency>
   </dependencies>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+      <distribution>repo</distribution>
+      <comments>Chosen to match the license of the Maven Plugin Plugin</comments>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Morgan Creighton</name>
+      <roles>
+        <role>architect</role>
+      </roles>
+    </developer>
+  </developers>
 </project>
