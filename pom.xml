@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.hyperdiamond.maven.plugins</groupId>
   <artifactId>custom-maven-plugin</artifactId>
-  <packaging>jar</packaging>
+  <packaging>maven-plugin</packaging>
   <version>0.1-SNAPSHOT</version>
   <name>custom-maven-plugin Overriding Lifecycle Bindings</name>
   <url>http://github.com/morganc/custom-maven-plugin</url>
