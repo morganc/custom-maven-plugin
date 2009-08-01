@@ -1,0 +1,18 @@
+<lifecycles>
+  <lifecycle>
+    <id>customcycle</id>
+    <phases>
+      <phase>
+        <id>validate</id>
+        <executions>
+          <execution>
+            <goals>
+              <goal>custom</goal>
+            </goals>
+          </execution>
+        </executions>
+      </phase>
+    </phases>
+  </lifecycle>
+</lifecycles>
+
